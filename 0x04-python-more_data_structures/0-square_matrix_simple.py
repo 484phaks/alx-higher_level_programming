@@ -1,4 +1,7 @@
-def sqaure_matrix_simple(matrix=[]):
-    if matrix is not None:
-        return None
-    return sqaure_matrix(matrix)
+#!/usr/bin/python3
+
+def square_matrix_simple(matrix=[]):
+    if matrix is None:
+        return None 
+    return [[ x** 2 for x in row] for in matrix]]
+
