@@ -15,4 +15,3 @@ def max_integer(my_list=[]):
 Footer
 © 2022 GitHub, Inc.
 Footer navigation
-Ter
